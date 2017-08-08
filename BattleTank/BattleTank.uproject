@@ -1,6 +1,10 @@
 {
 	"FileVersion": 3,
+<<<<<<< refs/remotes/origin/master
 	"EngineAssociation": "4.16",
+=======
+	"EngineAssociation": "4.17",
+>>>>>>> Built empty UE4 Game
 	"Category": "",
 	"Description": "",
 	"Modules": [
